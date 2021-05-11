@@ -1,5 +1,8 @@
 # Book_Bay
 
+## Demo Video:
+  * https://www.youtube.com/watch?v=2mQvN9J9Snc
+
 ## Requirements :
    * Python environment
    * Django
@@ -26,3 +29,4 @@
   * python manage.py makemigrations
   * python manage.py migrate
   * python manage.py runserver
+ 
